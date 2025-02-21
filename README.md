@@ -11,8 +11,9 @@ Minha trajetória profissional reflete um compromisso firme com a otimização d
   * CSS3: <i class="fab fa-css3-alt"></i>
   * JavaScript: <i class="fab fa-js"></i>
 * **Frameworks:**
-  * Django: <img src="https://img.shields.io/badge/Django-blue?style=flat-square" alt="Django">
-  * React: <img src="https://img.shields.io/badge/React-blue?style=flat-square" alt="React">
+  * <img src="https://img.shields.io/badge/Django-blue?style=flat-square" alt="Django">
+  * <img src="https://img.shields.io/badge/React-blue?style=flat-square" alt="React">
+  * <img src="https://img.shields.io/badge/Streamlit-red" alt="Streamlit">
 
 ### Projetos
 * **[Nome do projeto 1]:** [Descrição breve]
