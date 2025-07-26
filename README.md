@@ -6,13 +6,8 @@ Seja bem-vindo(a) ao meu perfil! Sou um Desenvolvedor Python apaixonado por tran
 Atualmente, estou focado em aprimorar minhas habilidades em Análise de Dados e Automação de Processos, buscando sempre as melhores práticas para extrair valor de grandes volumes de informações e criar sistemas que trabalhem de forma inteligente e autônoma.
 
 🚀 Minhas Habilidades
+
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
-
-Categoria
-
-Habilidades
-
-Linguagens
 
 Python, SQL, JavaScript
 
@@ -37,6 +32,7 @@ Outros
 Ambiente virtual (venv), pip, Estrutura de dados e algoritmos (básico), APIs REST (básico)
 
 📊 Meus Projetos
+
 Explore alguns dos projetos que tenho desenvolvido:
 
 📈 Projeto 1: [Nome do Projeto 1]
@@ -61,6 +57,7 @@ Tecnologias utilizadas: Python, [Biblioteca/Framework 1], [Biblioteca/Framework 
 Link do Projeto: [Link para o repositório do Projeto 3]
 
 🌱 O que estou estudando agora?
+
 Estou constantemente aprendendo e evoluindo! Atualmente, meus estudos estão focados em:
 
 * Visualização de Dados avançada: Explorando ferramentas como Streamlit para criar dashboards mais robustos e informativos.
