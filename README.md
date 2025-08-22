@@ -5,56 +5,32 @@ Seja bem-vindo(a) ao meu perfil! Sou um Desenvolvedor Python apaixonado por tran
 
 Atualmente, estou focado em aprimorar minhas habilidades em Análise de Dados e Automação de Processos, buscando sempre as melhores práticas para extrair valor de grandes volumes de informações e criar sistemas que trabalhem de forma inteligente e autônoma.
 
-🚀 Minhas Habilidades
+🚀 **Minhas Habilidades**
 
-Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
+#### Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
-Python, SQL, JavaScript
+**Linguagens** Python, SQL, JavaScript
 
-Análise de Dados
+**Análise de Dados** (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn (básico))
 
-Pandas, NumPy, Matplotlib, Seaborn, scikit-learn (básico)
+**Automação** (Selenium, Requests, Beautiful Soup, PyAutoGUI, Automação de tarefas de escritório)
 
-Automação
+**Bancos de Dados** (PostgreSQL, MySQL, SQLite)
 
-Selenium, Requests, Beautiful Soup, PyAutoGUI, Automação de tarefas de escritório
 
-Bancos de Dados
+📊 **Meus Projetos**
 
-PostgreSQL, MySQL, SQLite
+#### Explore alguns dos projetos que tenho desenvolvido:
 
-Controle de Versão
+📈 **Flux Dash**, um dashboard interativo projetado para transformar a maneira como você enxerga e entende os dados do seu negócio de varejo. **Esqueça as planilhas estáticas e as análises demoradas.** Com o **Flux Dash**, o poder da informação está na ponta dos seus dedos, de forma rápida, clara e, o mais importante, visualmente cativante.
 
-Git, GitHub
+Tecnologias utilizadas: Python, Pandas, Mathplotlib
 
-Outros
+Link do Projeto: [[Acessar]](https://github.com/bellinileonardo/Flux_Dashboard)
 
-Ambiente virtual (venv), pip, Estrutura de dados e algoritmos (básico), APIs REST (básico)
+Link da Dashborad: [[Acessar]](https://frontfluxdashboard.streamlit.app/))
 
-📊 Meus Projetos
 
-Explore alguns dos projetos que tenho desenvolvido:
-
-📈 Projeto 1: [Nome do Projeto 1]
-[Breve descrição do projeto 1, por exemplo: "Um sistema de raspagem de dados para coletar informações de preços de produtos online e analisar tendências de mercado." ou "Uma ferramenta para automatizar o preenchimento de formulários e envio de relatórios diários."]
-
-Tecnologias utilizadas: Python, [Biblioteca/Framework 1], [Biblioteca/Framework 2]
-
-Link do Projeto: [Link para o repositório do Projeto 1]
-
-🤖 Projeto 2: [Nome do Projeto 2]
-[Breve descrição do projeto 2, por exemplo: "Análise exploratória de um dataset de vendas para identificar os produtos mais vendidos e as regiões com maior faturamento." ou "Um script para organizar arquivos em diretórios específicos baseado em seus tipos."]
-
-Tecnologias utilizadas: Python, [Biblioteca/Framework 1], [Biblioteca/Framework 2]
-
-Link do Projeto: [Link para o repositório do Projeto 2]
-
-⚙️ Projeto 3: [Nome do Projeto 3]
-[Breve descrição do projeto 3, por exemplo: "Criação de dashboards interativos usando dados de RH para monitorar o desempenho de funcionários." ou "Desenvolvimento de um bot para monitorar e notificar sobre atualizações em websites específicos."]
-
-Tecnologias utilizadas: Python, [Biblioteca/Framework 1], [Biblioteca/Framework 2]
-
-Link do Projeto: [Link para o repositório do Projeto 3]
 
 🌱 O que estou estudando agora?
 
@@ -62,9 +38,7 @@ Estou constantemente aprendendo e evoluindo! Atualmente, meus estudos estão foc
 
 * Visualização de Dados avançada: Explorando ferramentas como Streamlit para criar dashboards mais robustos e informativos.
 
-Machine Learning: Entendendo os fundamentos de algoritmos de aprendizado supervisionado e não supervisionado para expandir minhas habilidades em análise preditiva e aplicá-las nos dashboards.
-
-Docker e Contêineres: Aprendendo a empacotar minhas aplicações para facilitar a implantação e escalabilidade.
+* Machine Learning: Entendendo os fundamentos de algoritmos de aprendizado supervisionado e não supervisionado para expandir minhas habilidades em análise preditiva e aplicá-las nos dashboards.
 
 📬 Conecte-se Comigo!
 Adoraria me conectar com outros desenvolvedores e profissionais da área! Sinta-se à vontade para:
