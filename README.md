@@ -1,50 +1,59 @@
-🐍 Olá, sou Leonardo Bellini!
-<img align="right" src="https://lginfo.com.br/site/wp-content/uploads/2023/10/Python-Symbol-1024x576.png" width="200" alt="Python logo com elementos de dados e automação">
+# Olá, eu sou o Leonardo Bellini Oliveira! 👋
 
-Seja bem-vindo(a) ao meu perfil! Sou um Desenvolvedor Python apaixonado por transformar dados em insights e otimizar tarefas repetitivas. Minha jornada na programação é guiada pela curiosidade e pelo desejo de construir soluções eficientes que gerem impacto real.
+### 🎓 Desenvolvedor Python Júnior | Análise de Dados | Automação | SQL
 
-Atualmente, estou focado em aprimorar minhas habilidades em Análise de Dados e Automação de Processos, buscando sempre as melhores práticas para extrair valor de grandes volumes de informações e criar sistemas que trabalhem de forma inteligente e autônoma.
+Sou um desenvolvedor apaixonado por transformar dados brutos em insights estratégicos e processos manuais em soluções inteligentes. Atuo na intersecção entre tecnologia e inteligência de negócio, aplicando engenharia de software para criar fluxos eficientes e escaláveis.
 
-🚀 **Minhas Habilidades**
+> 💡 *"Dados são o novo petróleo — mas é a engenharia que os transforma em combustível para a inovação."*
 
-#### Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
+---
 
-**Linguagens** Python, SQL, JavaScript
+### 🧠 Especialidades
 
-**Análise de Dados** (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn (básico))
+* **Análise & Visualização:** Pandas, NumPy, Matplotlib, Seaborn.
+* **Automação & Web Scraping:** Selenium, BeautifulSoup, PyAutoGUI.
+* **IA & LLMs:** Desenvolvimento de sistemas autônomos e agentes para tomada de decisão.
+* **Banco de Dados:** Modelagem e consultas complexas em PostgreSQL, MySQL e SQLite.
+* **Engenharia de Dados:** Pipelines ETL, Clean Code e versionamento com Git.
+* **Integrações:** Consumo de APIs REST e automação de fluxos de trabalho.
 
-**Automação** (Selenium, Requests, Beautiful Soup, PyAutoGUI, Automação de tarefas de escritório)
+---
 
-**Bancos de Dados** (PostgreSQL, MySQL, SQLite)
+### 🛠️ Stack Técnica
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-📊 **Meus Projetos**
+---
 
-#### Explore alguns dos projetos que tenho desenvolvido:
+### 📊 Projetos em Destaque
 
-📈 **Flux Dash**, um dashboard interativo projetado para transformar a maneira como você enxerga e entende os dados do seu negócio de varejo. **Esqueça as planilhas estáticas e as análises demoradas.** Com o **Flux Dash**, o poder da informação está na ponta dos seus dedos, de forma rápida, clara e, o mais importante, visualmente cativante.
+#### 📈 [Flux Dashboard: Análise de Dados com Pandas & IA](https://seu-link-aqui.com)
+* **O que faz:** Realiza o ETL de dados do varejo e apresenta um dashboard interativo via Streamlit.
+* **Diferencial:** Integrado a agentes de IA para análise preditiva e geração automática de insights de negócio.
+* **Techs:** Python, Pandas, Streamlit, LLMs.
 
-Tecnologias utilizadas: Python, Pandas, Mathplotlib
+---
 
-Link do Projeto: [[Acessar]](https://github.com/bellinileonardo/Flux_Dashboard)
+### 🧭 Roadmap de Evolução
 
-Link da Dashborad: [[Acessar]](https://frontfluxdashboard.streamlit.app/))
+Atualmente, estou focado em expandir meu toolkit técnico para:
+* **Machine Learning:** Scikit-learn e modelos preditivos avançados.
+* **Visualização BI:** Power BI e dashboards de alta performance.
+* **Engenharia de Dados Escalável:** Apache Airflow, Spark e Docker (Containerização).
 
+---
 
+### 📫 Vamos nos conectar?
 
-🌱 O que estou estudando agora?
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:belini.leonardo@gmail.com)](mailto:belini.leonardo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-bellini-oliveira/)](https://www.linkedin.com/in/leonardo-bellini-oliveira/)
 
-Estou constantemente aprendendo e evoluindo! Atualmente, meus estudos estão focados em:
+---
 
-* Visualização de Dados avançada: Explorando ferramentas como Streamlit para criar dashboards mais robustos e informativos.
-
-* Machine Learning: Entendendo os fundamentos de algoritmos de aprendizado supervisionado e não supervisionado para expandir minhas habilidades em análise preditiva e aplicá-las nos dashboards.
-
-📬 Conecte-se Comigo!
-Adoraria me conectar com outros desenvolvedores e profissionais da área! Sinta-se à vontade para:
-
-[]([https://www.google.com/search?q=https://www.linkedin.com/in/leonardo-bellini-oliveira/])
-
-[](mailto:[belini.leonardo@gmail.com])
-
-<p align="center">Feito com ❤️ por Leonardo Bellini</p>
+*“Transformando dados em conhecimento, e conhecimento em inovação.”*
